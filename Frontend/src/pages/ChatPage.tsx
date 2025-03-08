@@ -183,7 +183,7 @@ function ChatPage() {
                                    0 0 0 0 1.5Zm0 0v-3.675A55.378 55.378 0 0 1 12 8.443m-7.007 11.55A5.981 5.981 0 0 0 6.75 
                                    15.75v-1.5" /> 
                                 </svg> 
-                                <p className="text-white text-center text-transparent bg-clip-text bg-gradient-to-r 
+                                <p className="text-center text-transparent bg-clip-text bg-gradient-to-r 
                                 from-[#9f86c0] to-[#e0b1cb] text-4xl">How can I assist you today?</p>
                             </div>
                         }

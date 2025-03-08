@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sf: ['"SF Pro Display"', "sans-serif"]
+        sf: ["Helvetica Neue", "Helvetica", "Arial"]
       },
       colors: {
         'custom-start': '#2A2B47',

@@ -12,7 +12,7 @@ const FormHeader: React.FC<FormProps> = ({className, title="Get Started"}) => {
                 <div className="text-white text-lg font-sf font-light">
                     {title}
                 </div>
-                <div className="text-white font-sf font-thin">
+                <div className="text-white font-sf font-extralight">
                     Dive right in to personal mentoring
                 </div>
                 <hr className="mt-5 mb-10 border-[#BE95C4]"></hr>

@@ -66,7 +66,7 @@ const SignUpForm: React.FC<FormProps> = ({className, buttonLink}) => {
                 <Button/>
             </form>
             <div className="mt-2 text-center">
-                <p className="text-white font-sf font-thin italic">Already have an account? <span className="text-[#BE95C4] not-italic pl-1"><a href={buttonLink}>Sign in</a></span></p>
+                <p className="text-white font-sf font-extralight italic">Already have an account? <span className="text-[#BE95C4] not-italic pl-1"><a href={buttonLink}>Sign in</a></span></p>
             </div>
         </div>
     )

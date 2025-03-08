@@ -37,3 +37,13 @@ packages/react-devtools-fusebox/dist
 packages/react-devtools-inline/dist
 packages/react-devtools-shell/dist
 packages/react-devtools-timeline/dist
+
+# Directories
+.idea/
+*/__pycache__/
+__pycache__/
+data/
+
+# Files
+.env
+.DS_Store

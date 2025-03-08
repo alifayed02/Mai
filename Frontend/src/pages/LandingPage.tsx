@@ -23,14 +23,14 @@ function LandingPage() {
     return (
         <div className="flex flex-col w-screen h-screen bg-custom-bg">
             <NavBar className="mt-5"/>
-            <div className="flex flex-col w-full font-semibold 
+            <div className="flex flex-col w-full font-medium 
                             text-center font-sf text-[100px] text-[#DEDEDE] mt-20">
                 <p>Personal <span className="text-[#9F86C0]">AI</span> Mentor,</p>
                 <p>Just for you.</p>
             </div>
             <div className="flex w-full justify-center mt-12">
                 <div className="w-[60%] font-sf text-white text-center">
-                    <p><span className="text-[#9F86C0]">Unlock</span> your potential with AI Mentor, your 24/7 intelligent companion for
+                    <p><span className="text-[#9F86C0]">Unlock</span> your potential with <span className="text-[#9F86C0] font-medium"> Mai</span>, your 24/7 intelligent companion for
                         <span className="text-[#9F86C0]"> personalized</span> guidance. Whether you're advancing your career, 
                         building new skills, or navigating life's challenges, AI Mentor offers 
                         tailored <span className="text-[#9F86C0]"> advice</span>, 
